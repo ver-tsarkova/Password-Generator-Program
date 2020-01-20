@@ -9,8 +9,6 @@ import java.util.Random;
 
 /**
  * PassWordPane.java
- * @author Veronica Tsarkova
- * @since 10/02/18
  * Demonstrates the use of a TextField and a GridPane.
 */
 
